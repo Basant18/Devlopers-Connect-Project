@@ -1,6 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://basant123:basant123@cluster0.uqdhs.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken",
-    "githubClientID":"ed3d694e32f1e0dd54aa",
-    "githubSecret":"4d98a63e4efa003c573b738e422d16c71bda49ae"
-}
