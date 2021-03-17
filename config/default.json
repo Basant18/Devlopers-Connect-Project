@@ -1,0 +1,5 @@
+{
+    "mongoURI":"mongodb+srv://basant123:basant123@cluster0.uqdhs.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubToken":""
+}
